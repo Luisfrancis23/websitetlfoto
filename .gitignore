@@ -1,0 +1,12 @@
+# Runtime data — recreated automatically by config.php / db.php
+data/*
+uploads/*
+
+# Keep the folders in the repo
+!data/.gitkeep
+!uploads/.gitkeep
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.log
